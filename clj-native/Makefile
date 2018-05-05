@@ -1,4 +1,4 @@
-.PHONY: run native uberjar
+.PHONY: run native uberjar clean
 
 NAME = clj-native
 VERSION = 0.1.0-SNAPSHOT
